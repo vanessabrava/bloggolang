@@ -1,0 +1,34 @@
+[
+    {
+        "id": 0,
+        "name": "Você sabe se gosta de programar?",
+        "image": "images/s1.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "Nerd All Cursos",
+                "url": "#"
+            },
+            {
+                "name": "Youtube",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Desenvolva sua lógica em programação",
+        "image": "images/s1.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "Nerd All Cursos",
+                "url": "#"
+            },
+            {
+                "name": "Youtube",
+                "url": "#"
+            }
+        ]
+    }
+]
