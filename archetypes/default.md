@@ -3,8 +3,7 @@ tags = []
 categories = []
 description = ""
 menu = ""
-banner = ""
-images = []
+blog= []
 +++
 
 <!--more-->

@@ -6,12 +6,12 @@
         "url": "#",
         "items": [
             {
-                "name": "Nerd All Tecnologia",
+                "name": "Blog",
                 "url": "#"
             },
             {
                 "name": "Youtube",
-                "url": "#"
+                "url": "https://www.youtube.com/watch?v=FP4AUAR1UVM&t=45s"
             }
         ]
     },
@@ -22,12 +22,12 @@
         "url": "#",
         "items": [
             {
-                "name": "Nerd All Tecnologia",
+                "name": "Blog",
                 "url": "#"
             },
             {
                 "name": "Youtube",
-                "url": "#"
+                "url": "https://www.youtube.com/watch?v=CVJOXMQRNTE"
             }
         ]
     }

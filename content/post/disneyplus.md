@@ -1,8 +1,8 @@
 +++
-title = "Venon - Vilão ou mocinho ?"
+title = "Disney + - O Mundo Streaming da Disney"
 date = "2015-10-10T13:07:31+02:00"
-tags = ["venon"]
-categories = ["movie"]
+tags = ["disneyplus"]
+categories = ["nerdallnews"]
 banner = "img/banners/banner-5.jpg"
 +++
 

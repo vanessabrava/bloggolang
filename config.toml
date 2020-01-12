@@ -11,13 +11,12 @@ paginate = 10
     name = "Nerd - Vanessa Valle"
     description = "Muito código entre conversas nerds!"
     email = "nerdalldebug@gmail.com"
-    phone = "+234 23 9873237"
     address = "Rio de Janeiro - Brasil"
     year = 2018
     avatar = "images/nerdlogonomepeq.jpg"
     background = ""
     favicon = "images/favicon.ico"
-    DateForm = "January 2, 2006"
+    DateForm = "September 13, 2018"
 
     showSubheader = true
     showServices = true
@@ -38,11 +37,11 @@ paginate = 10
 
     [[menu.main]]
     name = "Blog"
-    URL = "/posts/"
+    URL = "/blog"
     weight = 3
 
     [[menu.main]]
-    name = "Sobre"
+    name = "Contato"
     URL = "about"
     weight = 4
 

@@ -1,53 +1,20 @@
-{{ partial "header.html" . }}
+{{ define "main" }}
 
-<main id="main">
+  {{ partial "page-title.html" . }}
 
-	<div class="container">
+  <section class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <h3 class="font-tertiary mb-5">{{.Title}}</h3>
+          <p class="font-secondary">Publicado em  {{ .PublishDate.Format "Jan 02, 2006" }} by <span class="text-primary">{{.Params.Author}}</span></p>
+          <div class="content">
+            <img src="{{.Params.Image | absURL }}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
+            {{.Content }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 
-		<div class="row topspace">
-			<div class="col-sm-8 col-sm-offset-2">
-
- 				<article class="post">
-					<header class="entry-header">
- 						<div class="entry-meta">
- 							<span class="posted-on"><time class="entry-date published" date="{{ .Date }}">{{ dateFormat .Site.Params.DateForm .Date }}</time></span>
- 						</div>
- 						<h1 class="entry-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h1>
-					</header>
-					<div class="entry-content">
-						{{ .Content }}
-					</div>
-				</article><!-- #post-## -->
-
-			</div>
-		</div> <!-- /row post  -->
-
-        <div class="row">
-			<div class="col-sm-8 col-sm-offset-2">
-
-				<div id="share">
-                    {{ if .Params.Share }}
-                       {{ partial "sharethis.html" . }}
-                    {{ end }}
-				</div>
-			</div>
-		</div> <!-- /row share -->
-		<div class="clearfix"></div>
-
-		<div class="row">
-			<div class="col-sm-8 col-sm-offset-2">
-
-				<div id="comments">
-                    {{ if .Params.Comments }}
-                       {{ partial "disqus.html" . }}
-                    {{ end }}
-				</div>
-			</div>
-		</div> <!-- /row comments -->
-		<div class="clearfix"></div>
-
-	</div>	<!-- /container -->
-
-</main>
-
-{{ partial "footer.html" . }}
+{{ end }}

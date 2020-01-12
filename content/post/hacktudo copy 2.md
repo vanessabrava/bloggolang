@@ -1,8 +1,8 @@
 +++
-title = "Venon - Vilão ou mocinho ?"
+title = "Visual Studio - Tenha a IDE mais completa atualmente"
 date = "2015-10-10T13:07:31+02:00"
-tags = ["venon"]
-categories = ["movie"]
+tags = ["viualstudio"]
+categories = ["news"]
 banner = "img/banners/banner-5.jpg"
 +++
 

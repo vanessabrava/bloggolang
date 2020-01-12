@@ -11,7 +11,15 @@
         {{ end }}
 
         {{ if .Site.Params.showRecentWorks }}
+        {{ partial "download.html" . }}
+        {{ end }}
+
+        {{ if .Site.Params.showRecentWorks }}
             {{ partial "recentworks.html" . }}
+        {{ end }}
+
+        {{ if .Site.Params.showClients }}
+        {{ partial "clients.html" . }}
         {{ end }}
 
              

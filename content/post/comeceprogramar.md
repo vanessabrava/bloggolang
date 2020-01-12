@@ -1,8 +1,8 @@
 +++
-title = "Venon - Vilão ou mocinho ?"
+title = "Comece sabendo se você vai gostar de programar"
 date = "2015-10-10T13:07:31+02:00"
-tags = ["venon"]
-categories = ["movie"]
+tags = ["programação"]
+categories = ["nerdalldebug"]
 banner = "img/banners/banner-5.jpg"
 +++
 

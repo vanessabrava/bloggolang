@@ -6,12 +6,12 @@
         "url": "#",
         "items": [
             {
-                "name": "Nerd all Eventos",
+                "name": "Blog",
                 "url": "#"
             },
             {
                 "name": "Youtube",
-                "url": "#"
+                "url": "https://www.youtube.com/watch?v=rt3DqgnzKPA"
             }
         ]
     },
@@ -22,12 +22,12 @@
         "url": "#",
         "items": [
             {
-                "name": "Nerd all Eventos",
+                "name": "Blog",
                 "url": "#"
             },
             {
                 "name": "Youtube",
-                "url": "#"
+                "url": "https://www.youtube.com/watch?v=Kvl3Ddbp_WQ&t=10s"
             }
         ]
     }

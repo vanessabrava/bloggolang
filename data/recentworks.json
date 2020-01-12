@@ -2,99 +2,95 @@
     {
         "id": 0,
         "name": "Sample title - big data solutions",
-        "image": "images/s1.jpg",
+        "image": "images/s2 .jpg",
         "url": "#",
         "items": [
             {
-                "name": "Web design",
+                "name": "Youtube",
                 "url": "#"
             },
             {
-                "name": "Wordpress",
-                "url": "#"
-            },
-            {
-                "name": "Logotype",
+                "name": "Blog",
                 "url": "#"
             }
         ]
     },
     {
         "id": 1,
-        "name": "Pure ipsum - development services for people",
-        "image": "images/s1.jpg",
+        "name": "Venom - Vilão ou Mocinho?",
+        "image": "images/s3.jpg",
         "url": "#",
         "items": [
             {
-                "name": "Web design",
-                "url": "#"
+                "name": "Youtube",
+                "url": "https://www.youtube.com/watch?v=Kvl3Ddbp_WQ&t=10s"
             },
             {
-                "name": "Wordpress",
+                "name": "Blog",
                 "url": "#"
             }
         ]
     },
     {
         "id": 2,
-        "name": "Lorem studios - interior and patio design",
-        "image": "images/s1.jpg",
+        "name": "Saiba mais sobre Lógica de Programação",
+        "image": "images/s4.jpg",
         "url": "#",
         "items": [
             {
-                "name": "Web design",
-                "url": "#"
+                "name": "Youtube",
+                "url": "https://www.youtube.com/watch?v=6Gt-7UbEgJU&t=1s"
             },
             {
-                "name": "Logotype",
+                "name": "Blog",
                 "url": "#"
             }
         ]
     },
     {
         "id": 3,
-        "name": "Pure ipsum - development services for people",
-        "image": "images/s1.jpg",
+        "name": "Pé pequeno ou pé grande ?",
+        "image": "images/s5.jpg",
         "url": "#",
         "items": [
             {
-                "name": "Web design",
-                "url": "#"
+                "name": "Youtube",
+                "url": "https://www.youtube.com/watch?v=ngTyohPWTsw"
             },
             {
-                "name": "Wordpress",
+                "name": "Blog",
                 "url": "#"
             }
         ]
     },
     {
         "id": 4,
-        "name": "Lorem studios - interior and patio design",
-        "image": "images/s1.jpg",
+        "name": "HACKTUDO - Saiba tudo que rolou !",
+        "image": "images/s6.jpg",
         "url": "#",
         "items": [
             {
-                "name": "Web design",
-                "url": "#"
+                "name": "Youtube",
+                "url": "https://www.youtube.com/watch?v=rt3DqgnzKPA"
             },
             {
-                "name": "Logotype",
+                "name": "Blog",
                 "url": "#"
             }
         ]
     },
     {
         "id": 5,
-        "name": "Lorem studios - interior and patio design",
-        "image": "images/s1.jpg",
+        "name": "Tecnologia e Inovação -PicNic 2018",
+        "image": "images/s7.jpg",
         "url": "#",
         "items": [
             {
-                "name": "Web design",
-                "url": "#"
+                "name": "Youtube",
+                "url": "https://www.youtube.com/watch?v=Kvl3Ddbp_WQ&t=10s"
             },
             {
-                "name": "Logotype",
+                "name": "Blog",
                 "url": "#"
             }
         ]
